@@ -6,7 +6,7 @@ header{
     display: flex;
     -ms-align-items: center;
     align-items: center;
-    border-bottom: 1px solid #344f79;
+    border-bottom: 1px solid #283B8E;
     justify-content: space-between;
 }
 
@@ -35,7 +35,7 @@ header .mnu_top li{
 header .mnu_top li a{
     display: block;
     text-decoration: none;
-    color: #4f4c67;
+    color: #283B8E;
     font-size: 18px;
     font-weight: 600;
     -webkit-transition: color .4s ease;
@@ -44,7 +44,7 @@ header .mnu_top li a{
 }
 
 header .mnu_top li a:hover{
-    color: #3a374c;
+    color: #1CBDEF;
 }
 
 /*header .btns{
