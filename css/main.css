@@ -98,6 +98,7 @@ header .icons{
 header .icons a #vk_icon{
     width: 35px;
     height: 35px;
+    padding-right: 25px;
 }
 
 header .icons a #sign_in_icon{
