@@ -31,6 +31,7 @@ header .right_header{
 header .mnu_top li{
     display: inline-block;
     margin-right: 75px;
+    padding-bottom: 10px;
 }
 
 header .mnu_top li a{
