@@ -10,9 +10,10 @@ header{
     justify-content: space-between;
 }
 
-#logo {
-    height: 100px;
-    width: 100px;
+header #logo {
+    margin: auto;
+    height: 70px;
+    width: 160px;
 }
 
 header .mnu_top{
