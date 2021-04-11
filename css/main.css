@@ -87,3 +87,20 @@ header .btns .btn_green{
 header .btns .btn_green:hover{
     background-color: #96c2bc;
 }*/
+
+header .icons{
+    padding-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .icons a #vk_icon{
+    width: 35px;
+    height: 35px;
+}
+
+header .icons a #sign_in_icon{
+    width: 35px;
+    height: 35px;
+}
